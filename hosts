@@ -47,3 +47,7 @@ a_core1 ansible_host=10.8.0.1
 a_core2 ansible_host=10.8.0.2
 a_sw1 ansible_host=10.8.0.3
 a_sw2 ansible_host=10.8.0.4
+
+[routers]
+a_edge1 ansible_host=10.8.0.5
+a_edge2 ansible_host=10.8.0.6
